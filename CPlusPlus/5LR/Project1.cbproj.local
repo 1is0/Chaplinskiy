@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.05.17 20:59:44.110,=D:\Лбы\Project1PCH1.h</Transaction>
+    <Transaction>2020.05.17 20:59:44.538,=D:\Лбы\Unit2.cpp</Transaction>
+    <Transaction>2020.05.17 21:03:36.226,=D:\Лбы\Unit3.cpp</Transaction>
+    <Transaction>2020.05.17 21:10:41.886,=D:\Лбы\Unit4.cpp</Transaction>
+    <Transaction>2020.05.17 21:28:06.297,D:\1oaip\ЛАБЫ\LR5\Unit2.dfm=D:\Лбы\Unit2.dfm</Transaction>
+    <Transaction>2020.05.17 21:28:06.297,D:\1oaip\ЛАБЫ\LR5\Unit2.h=D:\Лбы\Unit2.h</Transaction>
+    <Transaction>2020.05.17 21:28:06.297,D:\1oaip\ЛАБЫ\LR5\Unit2.cpp=D:\Лбы\Unit2.cpp</Transaction>
+    <Transaction>2020.05.17 21:28:07.880,D:\1oaip\ЛАБЫ\LR5\Unit3.h=D:\Лбы\Unit3.h</Transaction>
+    <Transaction>2020.05.17 21:28:07.880,D:\1oaip\ЛАБЫ\LR5\Unit3.cpp=D:\Лбы\Unit3.cpp</Transaction>
+    <Transaction>2020.05.17 21:28:09.315,D:\1oaip\ЛАБЫ\LR5\Unit4.h=D:\Лбы\Unit4.h</Transaction>
+    <Transaction>2020.05.17 21:28:09.315,D:\1oaip\ЛАБЫ\LR5\Unit4.cpp=D:\Лбы\Unit4.cpp</Transaction>
+    <Transaction>2020.05.17 21:28:10.737,D:\1oaip\ЛАБЫ\LR5\Project1PCH1.h=D:\Лбы\Project1PCH1.h</Transaction>
+    <Transaction>2020.05.17 21:28:12.643,D:\1oaip\ЛАБЫ\LR5\Project1.cbproj=D:\Лбы\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
